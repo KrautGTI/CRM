@@ -2,43 +2,43 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>http://rockymountainsolar.net/</loc>
+      <loc>http://rockymountainsolar.net/CRM/</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/solar-quote</loc>
+      <loc>http://rockymountainsolar.net/CRM/solar-quote</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/why-solar</loc>
+      <loc>http://rockymountainsolar.net/CRM/why-solar</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/about</loc>
+      <loc>http://rockymountainsolar.net/CRM/about</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/bonus-referrals</loc>
+      <loc>http://rockymountainsolar.net/CRM/bonus-referrals</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/commercial-solar</loc>
+      <loc>http://rockymountainsolar.net/CRM/commercial-solar</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>http://rockymountainsolar.net/faq</loc>
+      <loc>http://rockymountainsolar.net/CRM/faq</loc>
       <lastmod>2020-08-19</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.4</priority>
